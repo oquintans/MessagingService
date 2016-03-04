@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/pre-dexed/debug/classes-315346b8fdc9ebb42a893c7969eeaf2cd02e2e32.jar" />
+    </item>
+    <item
+        jar="/datos/local/oquintansocampo/ANDROIDS/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-ca09b034cc6fc2724c5ce8350af646b7a2dd913e.jar" />
+    </item>
+    <item
+        jar="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/pre-dexed/debug/classes-6dff0963c17ec3cce2ca706acde6b4eed8862dd8.jar" />
+    </item>
+    <item
+        jar="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/pre-dexed/debug/classes-4eb71b5a86a8bc0f757b7eba1e7a5ccc3bb00805.jar" />
+    </item>
+    <item
+        jar="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-a189c42655329e542ce0eb6c0ef41453cf921b87.jar" />
+    </item>
+    <item
+        jar="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/datos/local/oquintansocampo/Descargas/MessagingService/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-4cde27dd91d26366ae3b77eef60e70ed03dca008.jar" />
+    </item>
+
+</items>
